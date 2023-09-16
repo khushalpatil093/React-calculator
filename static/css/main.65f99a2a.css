@@ -1,0 +1,2 @@
+*{margin:0;padding:0}.App{height:100vh;justify-content:center}.App,.calculator{align-items:center;display:flex}.calculator{border-radius:30px;box-shadow:-30px 20px 100px 10px #fb184e78;flex-direction:column;gap:1rem;padding:5rem}input{padding:.5rem}.btn{display:flex;gap:1rem}.btn button{background-color:#000;border:none;color:#fff;padding:.6rem .8rem}.error{color:red}.success{color:#206cff}
+/*# sourceMappingURL=main.65f99a2a.css.map*/
